@@ -1,2 +1,2 @@
 # World-Economic-Indicator-Dataset
-I have studied a dataset provided by Coding Ninjas
+I have studied a dataset provided by the Coding Ninjas
